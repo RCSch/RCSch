@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RCSch  //Robin
-- 👀 I’m interested in ... Serverside stuff
+- 👀 I’m interested in ... Serverside stuff and statistics
 - 🌱 I’m currently learning ... Blazor, Swagger, API
 - 💞️ I’m looking to collaborate on ... school stuff, at the moment
 - 📫 How to reach me ... throw me an email @ robinschneidermann@gmail.com - I'd be happy to hear from you.
